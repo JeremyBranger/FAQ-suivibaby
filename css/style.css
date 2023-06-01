@@ -1,0 +1,36 @@
+body {
+    background-color: #EFF7F6;
+}
+h1 {
+    text-align: center;
+}
+
+#iconBaby {
+    width: 40px;
+    height: 40px;
+}
+
+
+.card-header button {
+    color: #007bff;
+}
+.card-body {
+    font-size: 1.1rem;
+    line-height: 1.5;
+}
+.nav{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: space-between;
+    background-color: #EFF7F6;
+    box-shadow: 5px 1px 5px black;
+    align-items: center;
+    border-bottom: 1px rgba(220, 210, 210, 0.399);
+height: 70px;
+}
+
+
+.container-fluid {
+    margin-top: 0.5rem;
+}
+
