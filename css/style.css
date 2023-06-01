@@ -1,14 +1,22 @@
 body {
     background-color: #EFF7F6;
-}
+    color: #313332 ;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+    font-family: 'arial';
+  }
+
 h1 {
+    margin: auto;
     text-align: center;
-}
+   }
 
 #iconBaby {
-    width: 40px;
-    height: 40px;
-}
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+  }
 
 
 .card-header button {
@@ -26,9 +34,8 @@ h1 {
     box-shadow: 5px 1px 5px black;
     align-items: center;
     border-bottom: 1px rgba(220, 210, 210, 0.399);
-height: 70px;
-}
 
+}
 
 .container-fluid {
     margin-top: 0.5rem;
